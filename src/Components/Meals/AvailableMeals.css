@@ -1,0 +1,9 @@
+.availableMeals {
+  max-width: 70vw;
+  width: 90%;
+  margin: 2rem auto;
+  border: 1px solid black;
+}
+.availableMeals ul {
+  list-style: none;
+}
